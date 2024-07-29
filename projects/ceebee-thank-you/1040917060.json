@@ -1,0 +1,181 @@
+{
+  "targets": [
+    {
+      "isStage": true,
+      "name": "Stage",
+      "variables": {
+        "d),nr6|([U*0oST5`fQ%-beat-": [
+          "beat",
+          3
+        ]
+      },
+      "lists": {},
+      "broadcasts": {},
+      "blocks": {},
+      "comments": {},
+      "currentCostume": 0,
+      "costumes": [
+        {
+          "name": "backdrop1",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "8b0317630ea754499081228abf0dc8eb",
+          "md5ext": "8b0317630ea754499081228abf0dc8eb.svg",
+          "rotationCenterX": 260,
+          "rotationCenterY": 205.5
+        }
+      ],
+      "sounds": [
+        {
+          "name": "bensound-allthat.mp3",
+          "assetId": "e107545be0ebaac7c46a1ce34dabcd6e",
+          "dataFormat": "wav",
+          "format": "adpcm",
+          "rate": 22050,
+          "sampleCount": 3206497,
+          "md5ext": "e107545be0ebaac7c46a1ce34dabcd6e.wav"
+        },
+        {
+          "name": "Intro1",
+          "assetId": "03afc84e6a6f55df55eaf8c83d0ee58a",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 48000,
+          "sampleCount": 59073,
+          "md5ext": "03afc84e6a6f55df55eaf8c83d0ee58a.wav"
+        },
+        {
+          "name": "Intro 2",
+          "assetId": "6ec94e50b43db07fc7518018f10fa32a",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 48000,
+          "sampleCount": 59073,
+          "md5ext": "6ec94e50b43db07fc7518018f10fa32a.wav"
+        },
+        {
+          "name": "Intro 3",
+          "assetId": "7b56f6154cab94ad00e2b83d627c2681",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 48000,
+          "sampleCount": 119259,
+          "md5ext": "7b56f6154cab94ad00e2b83d627c2681.wav"
+        },
+        {
+          "name": "All that intro",
+          "assetId": "4f123096ab7bc3459caec4137e912bc8",
+          "dataFormat": "wav",
+          "format": "adpcm",
+          "rate": 22050,
+          "sampleCount": 3096769,
+          "md5ext": "4f123096ab7bc3459caec4137e912bc8.wav"
+        }
+      ],
+      "volume": 100,
+      "layerOrder": 0,
+      "tempo": 60,
+      "videoTransparency": 50,
+      "videoState": "off",
+      "textToSpeechLanguage": null
+    }
+  ],
+  "monitors": [
+    {
+      "id": "_Zfl=r=]|T(Ml4U5eVA,-turn-",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "turn"
+      },
+      "spriteName": "Flying objects",
+      "value": "",
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 5,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    },
+    {
+      "id": "_Zfl=r=]|T(Ml4U5eVA,-yvelocity-",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "yvelocity"
+      },
+      "spriteName": "Flying objects",
+      "value": "",
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 32,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    },
+    {
+      "id": "jSt6eNF?oT)L_7Tq@3W5-bounce-",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "bounce"
+      },
+      "spriteName": "Sprite4",
+      "value": "",
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 59,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    },
+    {
+      "id": "jSt6eNF?oT)L_7Tq@3W5-bounce2-",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "bounce2"
+      },
+      "spriteName": "Sprite4",
+      "value": "",
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 86,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    },
+    {
+      "id": "d),nr6|([U*0oST5`fQ%-beat-",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "beat"
+      },
+      "spriteName": null,
+      "value": "",
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 113,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    }
+  ],
+  "extensions": [],
+  "meta": {
+    "semver": "3.0.0",
+    "vm": "2.3.4",
+    "agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+  }
+}

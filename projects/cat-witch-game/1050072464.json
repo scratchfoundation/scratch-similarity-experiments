@@ -1,0 +1,957 @@
+{
+  "targets": [
+    {
+      "isStage": true,
+      "name": "Stage",
+      "variables": {
+        "l]jiY`x14B+etmUj+OS2": [
+          "chosen object",
+          2
+        ],
+        "TU/VF!ll(:47bpCAvikq": [
+          "color",
+          "51"
+        ],
+        "c8O*fmZT%[bqiz,ADklf": [
+          "LOAD",
+          ""
+        ]
+      },
+      "lists": {
+        "dit6tcph}o?%mO8VUL=P-colors-list": [
+          "colors",
+          [
+            "000/100/100",
+            "024/100/100",
+            "050/100/100",
+            "057/100/100",
+            "102/100/100",
+            "153/100/100",
+            "180/100/100",
+            "205/100/100",
+            "231/100/100",
+            "281/100/100",
+            "308/100/100",
+            "334/100/100",
+            "000/069/100",
+            "000/038/100",
+            "024/038/100",
+            "019/030/100",
+            "042/024/100",
+            "050/038/100",
+            "102/038/100",
+            "108/056/100",
+            "180/038/100",
+            "205/038/100",
+            "210/053/100",
+            "252/047/100",
+            "281/038/100",
+            "308/038/100",
+            "344/041/100",
+            "231/100/018",
+            "251/100/049",
+            "138/076/031",
+            "125/100/060",
+            "070/097/067",
+            "050/100/072",
+            "070/097/100",
+            "145/043/075",
+            "294/079/035",
+            "287/100/049",
+            "290/100/060",
+            "301/100/085",
+            "294/079/100",
+            "000/100/049",
+            "045/100/049",
+            "047/068/057",
+            "046/045/063",
+            "035/052/085",
+            "005/038/086",
+            "000/001/000",
+            "000/001/010",
+            "000/001/020",
+            "230/007/070",
+            "253/014/100",
+            "180/001/100"
+          ]
+        ],
+        "UkOPB;j`g1f@f=9f/sJ5": [
+          "Load This Code",
+          [
+            "ye",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "5+U6-Sq8Jxumb3u)b},y": [
+          "SAVE CODE (hidden)",
+          [
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52"
+          ]
+        ],
+        "!;5bCqg1X?Ifsy_=kQMF": [
+          "Save Code",
+          [
+            "36 03 21 27 42 22 43 19 28 01 42 10 45 26 21 22 20 04 50 13 50 19 28 01 18 28 20 16 36 43 35 27 15 02 49 29 12 01 32 37 16 17 08 35 01 17 03 18 46 11 15 41 17 22 14 28 46 25 05 04 37 48 42 29 06 50 52",
+            "If you're on desktop: TRIPLE CLICK before you copy",
+            "If you're on mobile: use the \"select all\" option to copy",
+            "To close this code, click somewhere outside this box"
+          ]
+        ]
+      },
+      "broadcasts": {},
+      "blocks": {},
+      "comments": {},
+      "currentCostume": 1,
+      "costumes": [
+        {
+          "name": "backdrop1",
+          "bitmapResolution": 2,
+          "dataFormat": "png",
+          "assetId": "319cd32421ff5454d5ceacce7b6a7601",
+          "md5ext": "319cd32421ff5454d5ceacce7b6a7601.png",
+          "rotationCenterX": 480,
+          "rotationCenterY": 360
+        },
+        {
+          "name": "backdrop2",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "ed2ca59b7cba69f8872af16edc9b9bee",
+          "md5ext": "ed2ca59b7cba69f8872af16edc9b9bee.svg",
+          "rotationCenterX": 343.5,
+          "rotationCenterY": 312.5
+        }
+      ],
+      "sounds": [],
+      "volume": 100,
+      "layerOrder": 0,
+      "tempo": 60,
+      "videoTransparency": 50,
+      "videoState": "on",
+      "textToSpeechLanguage": null
+    },
+    {
+      "isStage": false,
+      "name": "Sprite1",
+      "variables": {},
+      "lists": {},
+      "broadcasts": {},
+      "blocks": {
+        "Q5u|F@.r18Nn=R$$iU/O": {
+          "opcode": "control_start_as_clone",
+          "next": "Prz8vLz(X1:)CwK}Oadx",
+          "parent": null,
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 154,
+          "y": -462
+        },
+        "Prz8vLz(X1:)CwK}Oadx": {
+          "opcode": "control_wait",
+          "next": "iIK?V1GChj?Z+dLHY$pN",
+          "parent": "Q5u|F@.r18Nn=R$$iU/O",
+          "inputs": {
+            "DURATION": [
+              1,
+              [
+                5,
+                "0.3"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "iIK?V1GChj?Z+dLHY$pN": {
+          "opcode": "control_repeat",
+          "next": "I[EkEx=V!m[U^HuEOzSj",
+          "parent": "Prz8vLz(X1:)CwK}Oadx",
+          "inputs": {
+            "TIMES": [
+              1,
+              [
+                6,
+                "10"
+              ]
+            ],
+            "SUBSTACK": [
+              2,
+              "$rNr=rK#g9q%oHjS}9Xb"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "$rNr=rK#g9q%oHjS}9Xb": {
+          "opcode": "looks_changeeffectby",
+          "next": "u%z3)}-fk+ynaU!,LP(b",
+          "parent": "iIK?V1GChj?Z+dLHY$pN",
+          "inputs": {
+            "CHANGE": [
+              1,
+              [
+                4,
+                "10"
+              ]
+            ]
+          },
+          "fields": {
+            "EFFECT": [
+              "COLOR",
+              null
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "u%z3)}-fk+ynaU!,LP(b": {
+          "opcode": "looks_changesizeby",
+          "next": null,
+          "parent": "$rNr=rK#g9q%oHjS}9Xb",
+          "inputs": {
+            "CHANGE": [
+              1,
+              [
+                4,
+                "-5"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "I[EkEx=V!m[U^HuEOzSj": {
+          "opcode": "control_delete_this_clone",
+          "next": null,
+          "parent": "iIK?V1GChj?Z+dLHY$pN",
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "g:9P!(MDg_=H)Wm?hE+s": {
+          "opcode": "event_whenflagclicked",
+          "next": ":2i{W3+$./}3k)EzN$|r",
+          "parent": null,
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 29,
+          "y": -743
+        },
+        ":2i{W3+$./}3k)EzN$|r": {
+          "opcode": "motion_gotoxy",
+          "next": "S^K3`(x(f+_RK2n#gjTz",
+          "parent": "g:9P!(MDg_=H)Wm?hE+s",
+          "inputs": {
+            "X": [
+              1,
+              [
+                4,
+                "0"
+              ]
+            ],
+            "Y": [
+              1,
+              [
+                4,
+                "0"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "S^K3`(x(f+_RK2n#gjTz": {
+          "opcode": "control_forever",
+          "next": null,
+          "parent": ":2i{W3+$./}3k)EzN$|r",
+          "inputs": {
+            "SUBSTACK": [
+              2,
+              "b=H|_sdzpX{fFLXeYx+D"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "b=H|_sdzpX{fFLXeYx+D": {
+          "opcode": "control_create_clone_of",
+          "next": "w4OC/wAT|#6X*N=Y,sLy",
+          "parent": "S^K3`(x(f+_RK2n#gjTz",
+          "inputs": {
+            "CLONE_OPTION": [
+              1,
+              "q%WR*_v*#XVnN_eKCI,S"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "q%WR*_v*#XVnN_eKCI,S": {
+          "opcode": "control_create_clone_of_menu",
+          "next": null,
+          "parent": "b=H|_sdzpX{fFLXeYx+D",
+          "inputs": {},
+          "fields": {
+            "CLONE_OPTION": [
+              "_myself_",
+              null
+            ]
+          },
+          "shadow": true,
+          "topLevel": false
+        },
+        "w4OC/wAT|#6X*N=Y,sLy": {
+          "opcode": "motion_goto",
+          "next": null,
+          "parent": "b=H|_sdzpX{fFLXeYx+D",
+          "inputs": {
+            "TO": [
+              1,
+              "aOcP#qk8Hnr2OOT:S{28"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "aOcP#qk8Hnr2OOT:S{28": {
+          "opcode": "motion_goto_menu",
+          "next": null,
+          "parent": "w4OC/wAT|#6X*N=Y,sLy",
+          "inputs": {},
+          "fields": {
+            "TO": [
+              "_mouse_",
+              null
+            ]
+          },
+          "shadow": true,
+          "topLevel": false
+        },
+        "Uo#htt8LBhUQ8ZDez1aW": {
+          "opcode": "event_whenflagclicked",
+          "next": "lA!/U3x5Za2kVM-}qq8.",
+          "parent": null,
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 351,
+          "y": -852
+        },
+        "lA!/U3x5Za2kVM-}qq8.": {
+          "opcode": "control_forever",
+          "next": null,
+          "parent": "Uo#htt8LBhUQ8ZDez1aW",
+          "inputs": {
+            "SUBSTACK": [
+              2,
+              "-vJG5YBsidoe^8REqSyH"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "-vJG5YBsidoe^8REqSyH": {
+          "opcode": "control_if",
+          "next": null,
+          "parent": "lA!/U3x5Za2kVM-}qq8.",
+          "inputs": {
+            "CONDITION": [
+              2,
+              "t0fF=2@o8f{npl8Q_Bqk"
+            ],
+            "SUBSTACK": [
+              2,
+              "~*VXo1]]5cfT=]YsVAU;"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "t0fF=2@o8f{npl8Q_Bqk": {
+          "opcode": "sensing_mousedown",
+          "next": null,
+          "parent": "-vJG5YBsidoe^8REqSyH",
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "~*VXo1]]5cfT=]YsVAU;": {
+          "opcode": "motion_changexby",
+          "next": "ly4k}^c{6C5xN+=g(SKi",
+          "parent": "-vJG5YBsidoe^8REqSyH",
+          "inputs": {
+            "DX": [
+              3,
+              "o{i|s`|S;8nP!$EE!SK.",
+              [
+                4,
+                "10"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "ly4k}^c{6C5xN+=g(SKi": {
+          "opcode": "motion_changeyby",
+          "next": null,
+          "parent": "~*VXo1]]5cfT=]YsVAU;",
+          "inputs": {
+            "DY": [
+              3,
+              "1:[c#+,_uC#Tu0[Mv3eo",
+              [
+                4,
+                "10"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "o{i|s`|S;8nP!$EE!SK.": {
+          "opcode": "operator_random",
+          "next": null,
+          "parent": "~*VXo1]]5cfT=]YsVAU;",
+          "inputs": {
+            "FROM": [
+              1,
+              [
+                4,
+                "-10"
+              ]
+            ],
+            "TO": [
+              1,
+              [
+                4,
+                "10"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "1:[c#+,_uC#Tu0[Mv3eo": {
+          "opcode": "operator_random",
+          "next": null,
+          "parent": "ly4k}^c{6C5xN+=g(SKi",
+          "inputs": {
+            "FROM": [
+              1,
+              [
+                4,
+                "-10"
+              ]
+            ],
+            "TO": [
+              1,
+              [
+                4,
+                "10"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        }
+      },
+      "comments": {},
+      "currentCostume": 0,
+      "costumes": [
+        {
+          "name": "costume1",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "b182a525e4247d3cce177ef093b174fd",
+          "md5ext": "b182a525e4247d3cce177ef093b174fd.svg",
+          "rotationCenterX": 25.5,
+          "rotationCenterY": 11.5
+        }
+      ],
+      "sounds": [
+        {
+          "name": "pop",
+          "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 44100,
+          "sampleCount": 1032,
+          "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+        }
+      ],
+      "volume": 100,
+      "layerOrder": 2,
+      "visible": true,
+      "x": -12,
+      "y": 180,
+      "size": 200,
+      "direction": 90,
+      "draggable": false,
+      "rotationStyle": "all around"
+    },
+    {
+      "isStage": false,
+      "name": "Sprite2",
+      "variables": {},
+      "lists": {},
+      "broadcasts": {},
+      "blocks": {
+        "#o[psK$A03uX#vAN{We@": {
+          "opcode": "event_whenflagclicked",
+          "next": "k]~1wZD9zW5LE3$(,aSX",
+          "parent": null,
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 92,
+          "y": 175
+        },
+        "k]~1wZD9zW5LE3$(,aSX": {
+          "opcode": "looks_hide",
+          "next": null,
+          "parent": "#o[psK$A03uX#vAN{We@",
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        }
+      },
+      "comments": {},
+      "currentCostume": 0,
+      "costumes": [
+        {
+          "name": "costume1",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "131e4c4a328ba266edaf6b9d1602b39a",
+          "md5ext": "131e4c4a328ba266edaf6b9d1602b39a.svg",
+          "rotationCenterX": 409.5,
+          "rotationCenterY": 217.5
+        }
+      ],
+      "sounds": [
+        {
+          "name": "pop",
+          "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 44100,
+          "sampleCount": 1032,
+          "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+        }
+      ],
+      "volume": 100,
+      "layerOrder": 3,
+      "visible": true,
+      "x": 36,
+      "y": 28,
+      "size": 100,
+      "direction": 90,
+      "draggable": false,
+      "rotationStyle": "all around"
+    },
+    {
+      "isStage": false,
+      "name": "Sprite3",
+      "variables": {},
+      "lists": {},
+      "broadcasts": {},
+      "blocks": {},
+      "comments": {},
+      "currentCostume": 0,
+      "costumes": [
+        {
+          "name": "costume1",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "9c698888f8e31da19fdc17cd987977d8",
+          "md5ext": "9c698888f8e31da19fdc17cd987977d8.svg",
+          "rotationCenterX": 149.75,
+          "rotationCenterY": 142.25
+        }
+      ],
+      "sounds": [
+        {
+          "name": "pop",
+          "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 44100,
+          "sampleCount": 1032,
+          "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+        }
+      ],
+      "volume": 100,
+      "layerOrder": 1,
+      "visible": true,
+      "x": 36,
+      "y": 28,
+      "size": 100,
+      "direction": 90,
+      "draggable": false,
+      "rotationStyle": "all around"
+    }
+  ],
+  "monitors": [
+    {
+      "id": "dit6tcph}o?%mO8VUL=P-colors-list",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "colors"
+      },
+      "spriteName": null,
+      "value": [
+        "000/100/100",
+        "024/100/100",
+        "050/100/100",
+        "057/100/100",
+        "102/100/100",
+        "153/100/100",
+        "180/100/100",
+        "205/100/100",
+        "231/100/100",
+        "281/100/100",
+        "308/100/100",
+        "334/100/100",
+        "000/069/100",
+        "000/038/100",
+        "024/038/100",
+        "019/030/100",
+        "042/024/100",
+        "050/038/100",
+        "102/038/100",
+        "108/056/100",
+        "180/038/100",
+        "205/038/100",
+        "210/053/100",
+        "252/047/100",
+        "281/038/100",
+        "308/038/100",
+        "344/041/100",
+        "231/100/018",
+        "251/100/049",
+        "138/076/031",
+        "125/100/060",
+        "070/097/067",
+        "050/100/072",
+        "070/097/100",
+        "145/043/075",
+        "294/079/035",
+        "287/100/049",
+        "290/100/060",
+        "301/100/085",
+        "294/079/100",
+        "000/100/049",
+        "045/100/049",
+        "047/068/057",
+        "046/045/063",
+        "035/052/085",
+        "005/038/086",
+        "000/001/000",
+        "000/001/010",
+        "000/001/020",
+        "230/007/070",
+        "253/014/100",
+        "180/001/100",
+        "color/ghost/brightness"
+      ],
+      "width": 402,
+      "height": 309,
+      "x": 4,
+      "y": 46,
+      "visible": false
+    },
+    {
+      "id": "5+U6-Sq8Jxumb3u)b},y",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "SAVE CODE (hidden)"
+      },
+      "spriteName": null,
+      "value": [
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55"
+      ],
+      "width": 100,
+      "height": 296,
+      "x": 67,
+      "y": 64,
+      "visible": false
+    },
+    {
+      "id": "UkOPB;j`g1f@f=9f/sJ5",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "Load This Code"
+      },
+      "spriteName": null,
+      "value": [
+        "04",
+        "04",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4b"
+      ],
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 5,
+      "visible": false
+    },
+    {
+      "id": "TU/VF!ll(:47bpCAvikq",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "color"
+      },
+      "spriteName": null,
+      "value": 51,
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 5,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    },
+    {
+      "id": "!;5bCqg1X?Ifsy_=kQMF",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "Save Code"
+      },
+      "spriteName": null,
+      "value": [
+        "36 03 21 27 42 22 43 19 28 01 42 10 45 26 21 22 20 04 50 13 50 19 28 01 18 28 20 16 36 43 35 27 15 02 49 29 12 01 32 37 16 17 08 35 01 17 03 18 46 11 15 41 17 22 14 28 46 25 05 04 37 48 42 29 06 50 52",
+        "If you're on desktop: TRIPLE CLICK before you copy",
+        "If you're on mobile: use the \"select all\" option to copy",
+        "To close this code, click somewhere outside this box"
+      ],
+      "width": 462,
+      "height": 143,
+      "x": 10,
+      "y": 211,
+      "visible": false
+    }
+  ],
+  "extensions": [],
+  "meta": {
+    "semver": "3.0.0",
+    "vm": "2.3.4",
+    "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15"
+  }
+}

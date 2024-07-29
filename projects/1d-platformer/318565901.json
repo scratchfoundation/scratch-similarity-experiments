@@ -1,0 +1,75 @@
+{
+  "targets": [
+    {
+      "isStage": true,
+      "name": "Stage",
+      "variables": {},
+      "lists": {},
+      "broadcasts": {
+        "broadcastMsgId-level 1": "level 1",
+        "broadcastMsgId-level 2": "level 2",
+        "broadcastMsgId-level 3": "level 3",
+        "broadcastMsgId-level 4": "level 4",
+        "broadcastMsgId-level 5": "level 5",
+        "broadcastMsgId-level 6": "level 6",
+        "broadcastMsgId-level 7": "level 7"
+      },
+      "blocks": {},
+      "comments": {},
+      "currentCostume": 0,
+      "costumes": [
+        {
+          "assetId": "dcba8f1bfecaab8f47089f0edba36782",
+          "name": "Title Screen",
+          "bitmapResolution": 2,
+          "md5ext": "dcba8f1bfecaab8f47089f0edba36782.png",
+          "dataFormat": "png",
+          "rotationCenterX": 480,
+          "rotationCenterY": 360
+        },
+        {
+          "assetId": "9430efcaba403136b481f1b7b3134353",
+          "name": "Platformer",
+          "bitmapResolution": 2,
+          "md5ext": "9430efcaba403136b481f1b7b3134353.png",
+          "dataFormat": "png",
+          "rotationCenterX": -480,
+          "rotationCenterY": -360
+        },
+        {
+          "assetId": "deb4745757de7c1cc21c11579dc97d2e",
+          "name": "Thumbnail",
+          "bitmapResolution": 2,
+          "md5ext": "deb4745757de7c1cc21c11579dc97d2e.png",
+          "dataFormat": "png",
+          "rotationCenterX": 480,
+          "rotationCenterY": 360
+        }
+      ],
+      "sounds": [
+        {
+          "assetId": "83a9787d4cb6f3b7632b4ddfebf74367",
+          "name": "pop",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 48000,
+          "sampleCount": 1123,
+          "md5ext": "83a9787d4cb6f3b7632b4ddfebf74367.wav"
+        }
+      ],
+      "volume": 100,
+      "layerOrder": 0,
+      "tempo": 60,
+      "videoTransparency": 50,
+      "videoState": "on",
+      "textToSpeechLanguage": null
+    }
+  ],
+  "monitors": [],
+  "extensions": [],
+  "meta": {
+    "semver": "3.0.0",
+    "vm": "0.2.0-prerelease.20190619042313",
+    "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36 AVG/74.0.791.133"
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "targets": [
+    {
+      "isStage": true,
+      "name": "Stage",
+      "variables": {
+        "l]jiY`x14B+etmUj+OS2": [
+          "chosen object",
+          1
+        ],
+        "TU/VF!ll(:47bpCAvikq": [
+          "color",
+          "20"
+        ],
+        "c8O*fmZT%[bqiz,ADklf": [
+          "LOAD",
+          ""
+        ]
+      },
+      "lists": {
+        "dit6tcph}o?%mO8VUL=P-colors-list": [
+          "colors",
+          [
+            "000/100/100",
+            "024/100/100",
+            "050/100/100",
+            "057/100/100",
+            "102/100/100",
+            "153/100/100",
+            "180/100/100",
+            "205/100/100",
+            "231/100/100",
+            "281/100/100",
+            "308/100/100",
+            "334/100/100",
+            "000/069/100",
+            "000/038/100",
+            "024/038/100",
+            "019/030/100",
+            "042/024/100",
+            "050/038/100",
+            "102/038/100",
+            "108/056/100",
+            "180/038/100",
+            "205/038/100",
+            "210/053/100",
+            "252/047/100",
+            "281/038/100",
+            "308/038/100",
+            "344/041/100",
+            "231/100/018",
+            "251/100/049",
+            "138/076/031",
+            "125/100/060",
+            "070/097/067",
+            "050/100/072",
+            "070/097/100",
+            "145/043/075",
+            "294/079/035",
+            "287/100/049",
+            "290/100/060",
+            "301/100/085",
+            "294/079/100",
+            "000/100/049",
+            "045/100/049",
+            "047/068/057",
+            "046/045/063",
+            "035/052/085",
+            "005/038/086",
+            "000/001/000",
+            "000/001/010",
+            "000/001/020",
+            "230/007/070",
+            "253/014/100",
+            "180/001/100"
+          ]
+        ],
+        "UkOPB;j`g1f@f=9f/sJ5": [
+          "Load This Code",
+          [
+            "ye",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "5+U6-Sq8Jxumb3u)b},y": [
+          "SAVE CODE (hidden)",
+          [
+            51,
+            37,
+            "52",
+            "52",
+            "52",
+            "52",
+            38,
+            51,
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            37,
+            "52",
+            51,
+            "52",
+            "52",
+            50,
+            "52",
+            "52",
+            39,
+            51,
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            "52",
+            35,
+            "52",
+            "52",
+            "52",
+            21,
+            21,
+            "52",
+            51,
+            37,
+            "52",
+            21,
+            "52",
+            "52",
+            21,
+            51,
+            "52",
+            "52",
+            "52",
+            37,
+            "52",
+            "52",
+            "52",
+            51,
+            51,
+            21
+          ]
+        ],
+        "!;5bCqg1X?Ifsy_=kQMF": [
+          "Save Code",
+          [
+            "36 03 21 27 42 22 43 19 28 01 42 10 45 26 21 22 20 04 50 13 50 19 28 01 18 28 20 16 36 43 35 27 15 02 49 29 12 01 32 37 16 17 08 35 01 17 03 18 46 11 15 41 17 22 14 28 46 25 05 04 37 48 42 29 06 50 52",
+            "If you're on desktop: TRIPLE CLICK before you copy",
+            "If you're on mobile: use the \"select all\" option to copy",
+            "To close this code, click somewhere outside this box"
+          ]
+        ]
+      },
+      "broadcasts": {
+        "r]Z(MRcb{HVO}@2Dr`9Q": "reset"
+      },
+      "blocks": {
+        "SY.FNT;PT+Fa]Az!;2?U": {
+          "opcode": "data_hidelist",
+          "next": null,
+          "parent": "fX;FMv!KP1`2.hgn8!1k",
+          "inputs": {},
+          "fields": {
+            "LIST": [
+              "Save Code",
+              "!;5bCqg1X?Ifsy_=kQMF"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "fX;FMv!KP1`2.hgn8!1k": {
+          "opcode": "event_whenstageclicked",
+          "next": "SY.FNT;PT+Fa]Az!;2?U",
+          "parent": null,
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": -105,
+          "y": -378
+        },
+        "fz6Rhe9J)n#D+qo9snv;": {
+          "opcode": "event_whenbroadcastreceived",
+          "next": "*wXr@xVBzpdVEVFBk#jT",
+          "parent": null,
+          "inputs": {},
+          "fields": {
+            "BROADCAST_OPTION": [
+              "reset",
+              "r]Z(MRcb{HVO}@2Dr`9Q"
+            ]
+          },
+          "shadow": false,
+          "topLevel": true,
+          "x": 183,
+          "y": -467
+        },
+        "*wXr@xVBzpdVEVFBk#jT": {
+          "opcode": "data_deletealloflist",
+          "next": "h1U?Xd.s^q*Fw$fOOCnE",
+          "parent": "fz6Rhe9J)n#D+qo9snv;",
+          "inputs": {},
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "h1U?Xd.s^q*Fw$fOOCnE": {
+          "opcode": "control_repeat",
+          "next": "$LvqJ7]H[7y!;9y+Y;=3",
+          "parent": "*wXr@xVBzpdVEVFBk#jT",
+          "inputs": {
+            "TIMES": [
+              1,
+              [
+                6,
+                "13"
+              ]
+            ],
+            "SUBSTACK": [
+              2,
+              "e=2Jxs-51z=!2Co$B:7,"
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        },
+        "e=2Jxs-51z=!2Co$B:7,": {
+          "opcode": "data_addtolist",
+          "next": "f?w|$9N403@?M.s+vS3H",
+          "parent": "h1U?Xd.s^q*Fw$fOOCnE",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "f?w|$9N403@?M.s+vS3H": {
+          "opcode": "data_addtolist",
+          "next": "E_rAYmV:S538P+CWfsy8",
+          "parent": "e=2Jxs-51z=!2Co$B:7,",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "E_rAYmV:S538P+CWfsy8": {
+          "opcode": "data_addtolist",
+          "next": ";nhDV-!l1=?^|;{S$hvO",
+          "parent": "f?w|$9N403@?M.s+vS3H",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        ";nhDV-!l1=?^|;{S$hvO": {
+          "opcode": "data_addtolist",
+          "next": "_$LLau,tMPO}Sp0Obo=2",
+          "parent": "E_rAYmV:S538P+CWfsy8",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "_$LLau,tMPO}Sp0Obo=2": {
+          "opcode": "data_addtolist",
+          "next": null,
+          "parent": ";nhDV-!l1=?^|;{S$hvO",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "$LvqJ7]H[7y!;9y+Y;=3": {
+          "opcode": "data_addtolist",
+          "next": "4,UqQ{|rcOH]bj{9x%hG",
+          "parent": "h1U?Xd.s^q*Fw$fOOCnE",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "zG@IS7bl$TK;Mh[z(FPh": {
+          "opcode": "operator_divide",
+          "next": null,
+          "parent": null,
+          "inputs": {
+            "NUM1": [
+              1,
+              [
+                4,
+                "134"
+              ]
+            ],
+            "NUM2": [
+              1,
+              [
+                4,
+                "2"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 659,
+          "y": -342
+        },
+        "4,UqQ{|rcOH]bj{9x%hG": {
+          "opcode": "data_addtolist",
+          "next": null,
+          "parent": "$LvqJ7]H[7y!;9y+Y;=3",
+          "inputs": {
+            "ITEM": [
+              1,
+              [
+                10,
+                "52"
+              ]
+            ]
+          },
+          "fields": {
+            "LIST": [
+              "SAVE CODE (hidden)",
+              "5+U6-Sq8Jxumb3u)b},y"
+            ]
+          },
+          "shadow": false,
+          "topLevel": false
+        },
+        "m0kGeGQ6d,OR_*N~Yv;S": {
+          "opcode": "operator_multiply",
+          "next": null,
+          "parent": null,
+          "inputs": {
+            "NUM1": [
+              1,
+              [
+                4,
+                "13"
+              ]
+            ],
+            "NUM2": [
+              1,
+              [
+                4,
+                "5"
+              ]
+            ]
+          },
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 602,
+          "y": -232
+        }
+      },
+      "comments": {},
+      "currentCostume": 1,
+      "costumes": [
+        {
+          "name": "backdrop1",
+          "bitmapResolution": 2,
+          "dataFormat": "png",
+          "assetId": "319cd32421ff5454d5ceacce7b6a7601",
+          "md5ext": "319cd32421ff5454d5ceacce7b6a7601.png",
+          "rotationCenterX": 480,
+          "rotationCenterY": 360
+        },
+        {
+          "name": "backdrop2",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "cd21514d0531fdffb22204e0ec5ed84a",
+          "md5ext": "cd21514d0531fdffb22204e0ec5ed84a.svg",
+          "rotationCenterX": 0,
+          "rotationCenterY": 0
+        }
+      ],
+      "sounds": [],
+      "volume": 100,
+      "layerOrder": 0,
+      "tempo": 60,
+      "videoTransparency": 50,
+      "videoState": "on",
+      "textToSpeechLanguage": null
+    },
+    {
+      "isStage": false,
+      "name": "Sprite2",
+      "variables": {},
+      "lists": {},
+      "broadcasts": {},
+      "blocks": {
+        "U@#u/^$53Y_`wLVZGysj": {
+          "opcode": "event_whenflagclicked",
+          "next": "AkyP5)nzi=NCakDX9X$O",
+          "parent": null,
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": true,
+          "x": 86,
+          "y": 86
+        },
+        "AkyP5)nzi=NCakDX9X$O": {
+          "opcode": "looks_show",
+          "next": null,
+          "parent": "U@#u/^$53Y_`wLVZGysj",
+          "inputs": {},
+          "fields": {},
+          "shadow": false,
+          "topLevel": false
+        }
+      },
+      "comments": {},
+      "currentCostume": 8,
+      "costumes": [
+        {
+          "name": "costume1",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "5b8625b58d4023942442260627531a44",
+          "md5ext": "5b8625b58d4023942442260627531a44.svg",
+          "rotationCenterX": 230.34921878976627,
+          "rotationCenterY": 108.51252386517787
+        },
+        {
+          "name": "costume3",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "b60ef86dad681b3563c1a7bde7626eda",
+          "md5ext": "b60ef86dad681b3563c1a7bde7626eda.svg",
+          "rotationCenterX": 230.34919181788825,
+          "rotationCenterY": 108.51252773035576
+        },
+        {
+          "name": "costume4",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "c451b70dd5ede037fcb4820766babca2",
+          "md5ext": "c451b70dd5ede037fcb4820766babca2.svg",
+          "rotationCenterX": 230.34919605624395,
+          "rotationCenterY": 108.51252773035576
+        },
+        {
+          "name": "costume7",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "4596a810fdbced3c6ac99afa41ae6fea",
+          "md5ext": "4596a810fdbced3c6ac99afa41ae6fea.svg",
+          "rotationCenterX": 230.34918302812196,
+          "rotationCenterY": 108.51252886517787
+        },
+        {
+          "name": "costume5",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "7951197a1134fd1947e4fc64d7948a1e",
+          "md5ext": "7951197a1134fd1947e4fc64d7948a1e.svg",
+          "rotationCenterX": 111.4083013614553,
+          "rotationCenterY": 67.8721519254238
+        },
+        {
+          "name": "costume2",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "d467feb41ab5b3363df04170305981ca",
+          "md5ext": "d467feb41ab5b3363df04170305981ca.svg",
+          "rotationCenterX": 111.4083113614553,
+          "rotationCenterY": 67.81643192542379
+        },
+        {
+          "name": "costume6",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "ced240c88bd5a3e68ad7f38df202eac3",
+          "md5ext": "ced240c88bd5a3e68ad7f38df202eac3.svg",
+          "rotationCenterX": 111.40831,
+          "rotationCenterY": 67.81643
+        },
+        {
+          "name": "costume8",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "f0ecaf4b48b06b78609373c5ec0e8c06",
+          "md5ext": "f0ecaf4b48b06b78609373c5ec0e8c06.svg",
+          "rotationCenterX": 206.666655,
+          "rotationCenterY": 95.643395
+        },
+        {
+          "name": "costume9",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "5dcc601ab1066b205d6d0b72fd7fcb41",
+          "md5ext": "5dcc601ab1066b205d6d0b72fd7fcb41.svg",
+          "rotationCenterX": 257.0965781690778,
+          "rotationCenterY": 100.64338499999998
+        },
+        {
+          "name": "costume10",
+          "bitmapResolution": 1,
+          "dataFormat": "svg",
+          "assetId": "d9e44e170ce627adc3e3154e67f83015",
+          "md5ext": "d9e44e170ce627adc3e3154e67f83015.svg",
+          "rotationCenterX": 257.09659658453893,
+          "rotationCenterY": 100.643385
+        }
+      ],
+      "sounds": [
+        {
+          "name": "Meow",
+          "assetId": "83c36d806dc92327b9e7049a565c6bff",
+          "dataFormat": "wav",
+          "format": "",
+          "rate": 48000,
+          "sampleCount": 40681,
+          "md5ext": "83c36d806dc92327b9e7049a565c6bff.wav"
+        }
+      ],
+      "volume": 100,
+      "layerOrder": 1,
+      "visible": true,
+      "x": 0,
+      "y": 0,
+      "size": 100,
+      "direction": 90,
+      "draggable": false,
+      "rotationStyle": "all around"
+    }
+  ],
+  "monitors": [
+    {
+      "id": "dit6tcph}o?%mO8VUL=P-colors-list",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "colors"
+      },
+      "spriteName": null,
+      "value": [
+        "000/100/100",
+        "024/100/100",
+        "050/100/100",
+        "057/100/100",
+        "102/100/100",
+        "153/100/100",
+        "180/100/100",
+        "205/100/100",
+        "231/100/100",
+        "281/100/100",
+        "308/100/100",
+        "334/100/100",
+        "000/069/100",
+        "000/038/100",
+        "024/038/100",
+        "019/030/100",
+        "042/024/100",
+        "050/038/100",
+        "102/038/100",
+        "108/056/100",
+        "180/038/100",
+        "205/038/100",
+        "210/053/100",
+        "252/047/100",
+        "281/038/100",
+        "308/038/100",
+        "344/041/100",
+        "231/100/018",
+        "251/100/049",
+        "138/076/031",
+        "125/100/060",
+        "070/097/067",
+        "050/100/072",
+        "070/097/100",
+        "145/043/075",
+        "294/079/035",
+        "287/100/049",
+        "290/100/060",
+        "301/100/085",
+        "294/079/100",
+        "000/100/049",
+        "045/100/049",
+        "047/068/057",
+        "046/045/063",
+        "035/052/085",
+        "005/038/086",
+        "000/001/000",
+        "000/001/010",
+        "000/001/020",
+        "230/007/070",
+        "253/014/100",
+        "180/001/100",
+        "color/ghost/brightness"
+      ],
+      "width": 402,
+      "height": 309,
+      "x": 4,
+      "y": 46,
+      "visible": false
+    },
+    {
+      "id": "5+U6-Sq8Jxumb3u)b},y",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "SAVE CODE (hidden)"
+      },
+      "spriteName": null,
+      "value": [
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
+        "55"
+      ],
+      "width": 100,
+      "height": 296,
+      "x": 67,
+      "y": 64,
+      "visible": false
+    },
+    {
+      "id": "UkOPB;j`g1f@f=9f/sJ5",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "Load This Code"
+      },
+      "spriteName": null,
+      "value": [
+        "04",
+        "04",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4 ",
+        "4b"
+      ],
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 5,
+      "visible": false
+    },
+    {
+      "id": "TU/VF!ll(:47bpCAvikq",
+      "mode": "default",
+      "opcode": "data_variable",
+      "params": {
+        "VARIABLE": "color"
+      },
+      "spriteName": null,
+      "value": 51,
+      "width": 0,
+      "height": 0,
+      "x": 5,
+      "y": 5,
+      "visible": false,
+      "sliderMin": 0,
+      "sliderMax": 100,
+      "isDiscrete": true
+    },
+    {
+      "id": "!;5bCqg1X?Ifsy_=kQMF",
+      "mode": "list",
+      "opcode": "data_listcontents",
+      "params": {
+        "LIST": "Save Code"
+      },
+      "spriteName": null,
+      "value": [
+        "36 03 21 27 42 22 43 19 28 01 42 10 45 26 21 22 20 04 50 13 50 19 28 01 18 28 20 16 36 43 35 27 15 02 49 29 12 01 32 37 16 17 08 35 01 17 03 18 46 11 15 41 17 22 14 28 46 25 05 04 37 48 42 29 06 50 52",
+        "If you're on desktop: TRIPLE CLICK before you copy",
+        "If you're on mobile: use the \"select all\" option to copy",
+        "To close this code, click somewhere outside this box"
+      ],
+      "width": 462,
+      "height": 143,
+      "x": 10,
+      "y": 211,
+      "visible": false
+    }
+  ],
+  "extensions": [],
+  "meta": {
+    "semver": "3.0.0",
+    "vm": "2.3.4",
+    "agent": "Mozilla/5.0 (Linux; Android 9; KFONWI Build/PS7329.3851N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.248 Safari/537.36 AmazonKidsBrowser/2152510"
+  }
+}

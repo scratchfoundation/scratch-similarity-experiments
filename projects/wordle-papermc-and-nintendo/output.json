@@ -1,0 +1,34 @@
+[
+  {
+    "file": "original.json",
+    "similarity": 1
+  },
+  {
+    "file": "wordle-exact1.json",
+    "similarity": 1
+  },
+  {
+    "file": "wordle-exact2.json",
+    "similarity": 1
+  },
+  {
+    "file": "wordle-changes.json",
+    "similarity": 0.97473976571432
+  },
+  {
+    "file": "paper-mc-supermod.json",
+    "similarity": 0.024891341417954838
+  },
+  {
+    "file": "nintendo-trailer.json",
+    "similarity": 0.015445153238108446
+  },
+  {
+    "file": "paper-mc.json",
+    "similarity": 0.008591404792237974
+  },
+  {
+    "file": "paper-mc-clone.json",
+    "similarity": 0.008547177390147698
+  }
+]
